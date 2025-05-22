@@ -4,6 +4,7 @@ document.querySelector("#btn")
       });
 
     generate = () => {
+    console.log('clicked');
       var quotes = {
         "- Walt Disney":
           '"The Way Get Started Is To Quit Talking And Begin Doing."',
